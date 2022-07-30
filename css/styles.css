@@ -1,0 +1,46 @@
+
+
+/* page formatting */
+p {
+    width: 30%;
+    margin: 1cm auto;
+}
+
+body {
+    text-align: center;
+    background: rgb(255, 234, 195);
+    font-family: andale, mono, monospace
+}
+
+ul {
+    list-style-position: inside;
+  }
+
+div.header {
+    font-family: Marker Felt, fantasy;
+    letter-spacing: 3px;
+    font-weight: 300;
+}
+
+h3 {
+    background-color: rgb(71, 54, 32);
+    height: auto;
+    width: 250px;
+    margin: 1cm auto;
+    border-radius: 10px;
+    color: black;
+    font-size: 40px;
+    font-family: Marker Felt, fantasy;
+    font-weight: 100;
+    -webkit-text-stroke: 1px;
+    -webkit-text-stroke-color: aliceblue;
+}
+
+
+/* image formatting */
+img.jesse {
+    height: 400px;
+    width: auto;
+    border-radius: 25px;
+    border: 5px solid rgb(71, 54, 32);
+}
